@@ -1,0 +1,30 @@
+
+  .forecast{
+    text-align: right;
+    margin-top: 50px;
+    margin-bottom: 150px ;
+  }
+
+  body {
+    font-size: 16px;
+    line-height: 1;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .jumbotron {
+    text-align: center;
+    border-radius: 0;
+    border-bottom: 10px solid black;
+  }
+  .display-3{
+    font-size: 34px;
+  }
+
+  .search{
+    text-align: left;
+    margin-bottom: 100px;
+  }
+
+  .weather{
+    text-align: right;
+    margin-bottom: 150px;
+  }
